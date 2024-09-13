@@ -1,0 +1,14 @@
+[user]
+    name = Saud, Shaikh
+    email = Shaikhsaud0@gmail.com
+    password = Saud@2852#16!
+[http]
+    sslVerify = false
+[https]
+    sslverify = false
+[push]
+    default = simple
+[credential]
+    helper = cache --timeout=360000000
+[core]
+    autocrlf = false
