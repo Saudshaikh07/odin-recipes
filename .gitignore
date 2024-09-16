@@ -1,0 +1,5 @@
+# Ignore .githubconfig file
+.gitconfig
+
+# Optionally, ignore .githubconfig files in all subdirectories
+**/.gitconfig
